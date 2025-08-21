@@ -1,6 +1,6 @@
 # FOLIO - The Federated Open Legal Information Ontology
 
-![FOLIO Logo](https://openlegalstandard.org/_astro/soli-favicon-256px.Ca1QgbY-_ZT8yAz.webp)
+![FOLIO Logo](https://discourse.openlegalstandard.org/uploads/default/original/1X/ceb45b9ec0ef6f67cc516f9d5e30e9f6527eab44.png)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
